@@ -1,2 +1,1 @@
-# promoter_nopromoter
-promoter_nopromoter
+# DNA-Sequence-Promoter
